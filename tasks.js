@@ -6,3 +6,5 @@ const taskList = [
 ]
 
 taskList.forEach((task) => console.log(task));
+
+console.log('Hello World!')
